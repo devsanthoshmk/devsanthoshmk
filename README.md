@@ -113,10 +113,9 @@ Web Automation : Playwright, Puppeteer, Selenium, Web Reverse Engineering
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=devsanthoshmk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080c14&title_color=38bdf8&icon_color=06b6d4&text_color=cbd5e1" alt="GitHub Stats" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devsanthoshmk&theme=tokyonight&hide_border=true&background=080c14&ring=38bdf8&fire=06b6d4&currStreakNum=38bdf8" alt="GitHub Streak" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devsanthoshmk&theme=tokyonight&hide_border=true&background=080c14&ring=38bdf8&fire=06b6d4&currStreakNum=38bdf8" alt="GitHub Streak" width="60%">
 
-<br>
+<br><br>
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devsanthoshmk&layout=compact&theme=tokyonight&hide_border=true&bg_color=080c14&title_color=38bdf8&text_color=cbd5e1" alt="Top Languages" width="60%">
 
