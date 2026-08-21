@@ -2,7 +2,6 @@
 
 # Santhosh M K
 
-[![GitHub Followers](https://img.shields.io/github/followers/devsanthoshmk?style=for-the-badge&logo=github&color=06b6d4&labelColor=0d1527)](https://github.com/devsanthoshmk?tab=followers)
 [![Total Repositories](https://img.shields.io/badge/Repositories-78+-38bdf8?style=for-the-badge&logo=git&labelColor=0d1527)](https://github.com/devsanthoshmk?tab=repositories)
 [![Primary Stack](https://img.shields.io/badge/Stack-Python%20%7C%20TypeScript%20%7C%20Agents-22c55e?style=for-the-badge&logo=python&labelColor=0d1527)](https://github.com/devsanthoshmk)
 
@@ -123,4 +122,4 @@ DevOps & Tool : Docker, Linux (Arch/Debian), Git, GitHub Actions, Cloudflare, Pl
 ## Connect & Contact
 
 - GitHub: [@devsanthoshmk](https://github.com/devsanthoshmk)
-- Email: `devsanthoshmk@users.noreply.github.com`
+- Email: [devsanthoshmk@gmail.com](mailto:devsanthoshmk@gmail.com)
