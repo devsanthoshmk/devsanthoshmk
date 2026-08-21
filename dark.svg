@@ -98,23 +98,23 @@
     <text x="390" y="112" fill="#06b6d4" font-weight="700" letter-spacing="0.4">USER</text>
     <text x="500" y="112" fill="#f8fafc" font-weight="700">SANTHOSH M K</text>
     <text x="390" y="138" fill="#06b6d4" font-weight="700" letter-spacing="0.4">ROLE</text>
-    <text x="500" y="138" fill="#38bdf8" font-weight="700">Full-Stack &amp; Agentic AI Engineer</text>
+    <text x="500" y="138" fill="#38bdf8" font-weight="700">Full-Stack &amp; AI Systems Engineer</text>
     <text x="390" y="164" fill="#06b6d4" font-weight="700" letter-spacing="0.4">FOCUS</text>
-    <text x="500" y="164" fill="#cbd5e1" font-weight="500">Autonomous Agents, MCP Servers, Distributed APIs</text>
+    <text x="500" y="164" fill="#cbd5e1" font-weight="500">AI Agents, MCP Protocols, RAG &amp; Edge APIs</text>
     <text x="390" y="190" fill="#06b6d4" font-weight="700" letter-spacing="0.4">TOOLCHAIN</text>
-    <text x="500" y="190" fill="#cbd5e1" font-weight="500">Linux (Arch), Docker, Git, VS Code, agy CLI</text>
+    <text x="500" y="190" fill="#cbd5e1" font-weight="500">Docker, GitHub Actions, Cloudflare, AWS, Linux</text>
     <text x="390" y="216" fill="#06b6d4" font-weight="700" letter-spacing="0.4">LANGUAGES</text>
-    <text x="500" y="216" fill="#cbd5e1" font-weight="500">Python, TypeScript, JavaScript, Go, C++, SQL</text>
+    <text x="500" y="216" fill="#cbd5e1" font-weight="500">Python, TypeScript, JavaScript, Java, Bash, SQL</text>
     <text x="390" y="242" fill="#06b6d4" font-weight="700" letter-spacing="0.4">FRONTEND</text>
-    <text x="500" y="242" fill="#cbd5e1" font-weight="500">React, Next.js, Vue.js, Ionic, Tailwind CSS</text>
+    <text x="500" y="242" fill="#cbd5e1" font-weight="500">Vue.js, React.js, React Native, Tailwind CSS, Vite</text>
     <text x="390" y="268" fill="#06b6d4" font-weight="700" letter-spacing="0.4">BACKEND</text>
-    <text x="500" y="268" fill="#cbd5e1" font-weight="500">FastAPI, Node.js, Express, Cloudflare Workers</text>
+    <text x="500" y="268" fill="#cbd5e1" font-weight="500">Node.js, Express, Cloudflare Workers, Django, RPC</text>
     <text x="390" y="294" fill="#06b6d4" font-weight="700" letter-spacing="0.4">DATA &amp; AI</text>
-    <text x="500" y="294" fill="#cbd5e1" font-weight="500">LangChain, Qdrant, Neon Postgres, Redis, Groq</text>
+    <text x="500" y="294" fill="#cbd5e1" font-weight="500">LangChain, RAG, Qdrant, Neon Postgres, Redis</text>
     <text x="390" y="320" fill="#06b6d4" font-weight="700" letter-spacing="0.4">SCRAPING</text>
-    <text x="500" y="320" fill="#cbd5e1" font-weight="500">Playwright, Puppeteer, High-Volume Data Pipelines</text>
+    <text x="500" y="320" fill="#cbd5e1" font-weight="500">Playwright, Puppeteer, Selenium, Reverse Eng</text>
     <text x="390" y="346" fill="#06b6d4" font-weight="700" letter-spacing="0.4">PORTFOLIO</text>
-    <text x="500" y="346" fill="#22c55e" font-weight="700">78 Repositories • Open Source Systems</text>
+    <text x="500" y="346" fill="#22c55e" font-weight="700">78+ Repositories • Open Source Systems</text>
     </g>
 
     <!-- Footer Note -->

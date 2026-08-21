@@ -17,7 +17,7 @@
 
 ## Technical Summary
 
-Full-stack and AI systems engineer focused on autonomous agent workflows, Model Context Protocol (MCP) integrations, distributed backends, and high-throughput data extraction engines. Creator of production developer tools and serverless architectures with 78+ repositories spanning Python, TypeScript, Go, and Vue/React.
+Full-stack and AI systems engineer focused on autonomous agent workflows, Model Context Protocol (MCP) integrations, distributed backends, and high-throughput data extraction engines. Creator of production developer tools and serverless architectures with 78+ repositories spanning Python, TypeScript/JavaScript, Java, and Vue/React.
 
 ---
 
@@ -26,15 +26,19 @@ Full-stack and AI systems engineer focused on autonomous agent workflows, Model 
 ### AI Systems, MCP & Autonomous Agents
 
 - **[gmaps-mcp](https://github.com/devsanthoshmk/gmaps-mcp)**
-  Model Context Protocol (MCP) server providing Google Maps search, places details, and geospatial tools to LLMs and coding agents.
-  - *Tech:* Python, FastMCP, Google Maps Places API, JSON-RPC.
+  Model Context Protocol (MCP) server and CLI providing zero-API-key Google Maps search, place details, and geo-grid queries directly to AI agents.
+  - *Tech:* Python, FastMCP, AsyncIO, JSON-RPC.
+
+- **[leadgen-basic](https://github.com/devsanthoshmk/leadgen-basic)**
+  Multi-platform lead generation engine concurrently querying LinkedIn, Google Maps, and Google Search (1,000+ req/query in <60s) with an AI context evaluation harness.
+  - *Tech:* React Native, Nativewind, GitHub Actions, AI Evaluation Harness.
 
 - **[AgenticragChatbot](https://github.com/devsanthoshmk/AgenticragChatbot)**
-  Multi-layer Agentic RAG pipeline and conversational agent with contextual chunking, vector indexing, and relational metadata persistence.
-  - *Tech:* Node.js, Express, LangChain, Cohere, Groq, Qdrant Vector DB, Neon Postgres.
+  Multi-layer Agentic RAG pipeline and conversational assistant with contextual chunking, vector indexing, and relational metadata persistence.
+  - *Tech:* Node.js, Express, LangChain, Groq, Qdrant Vector DB, Neon Postgres.
 
 - **[skills](https://github.com/devsanthoshmk/skills)**
-  Curated collection of production skills for autonomous AI coding agents, including headless subagent delegation, automated workflows, and terminal integrations.
+  Curated production skills for autonomous AI coding agents, including headless subagent delegation, automated workflows, and terminal integrations.
   - *Tech:* Markdown, Shell, Custom Agent Protocols.
 
 - **[agy-subagent](https://github.com/devsanthoshmk/agy-subagent)**
@@ -43,15 +47,15 @@ Full-stack and AI systems engineer focused on autonomous agent workflows, Model 
 
 ---
 
-### Infrastructure, Tunnels & Distributed Services
+### Infrastructure, Edge & Distributed Services
 
 - **[cloudflaredjs](https://github.com/devsanthoshmk/cloudflaredjs)**
   Zero-dependency Node.js wrapper for `cloudflared` to provision, manage, monitor, and maintain persistent Cloudflare Quick Tunnels programmatically.
   - *Tech:* Node.js, Cloudflare Tunnel Daemon, Child Process IPC, Stream Parsing.
 
 - **[m14u-workers-v4](https://github.com/devsanthoshmk/m14u-workers-v4)**
-  Serverless edge microservices powering multi-tenant routing, request validation, and proxy caching.
-  - *Tech:* TypeScript, Cloudflare Workers, KV Storage, Edge Routing.
+  Cross-platform streaming architecture achieving sub-5ms synchronization with serverless edge routing and durable state persistence.
+  - *Tech:* TypeScript, Cloudflare Workers, Durable Objects, KV Storage.
 
 - **[no_socket_proxy](https://github.com/devsanthoshmk/no_socket_proxy)**
   Lightweight HTTP proxy service engineered for low-overhead streaming responses without WebSocket complexity.
@@ -61,13 +65,13 @@ Full-stack and AI systems engineer focused on autonomous agent workflows, Model 
 
 ### High-Throughput Scrapers & Data Pipelines
 
-- **[gmapScraper](https://github.com/devsanthoshmk/gmapScraper) / [mapScraper.js](https://github.com/devsanthoshmk/mapScraper.js)**
-  Scalable Google Maps business intelligence extraction pipelines featuring proxy rotation, resilient schema parsing, and automatic fallback routing.
+- **[gmapScraper](https://github.com/devsanthoshmk/gmapScraper) / [mapScraper-forked](https://github.com/devsanthoshmk/mapScraper-forked)**
+  Scalable Google Maps business intelligence extraction pipelines featuring proxy rotation, resilient schema parsing, and automatic fallback routing (~700 LOC open source contribution).
   - *Tech:* Python, Node.js, Playwright, Puppeteer, Pandas.
 
 - **[places-data-app](https://github.com/devsanthoshmk/places-data-app)**
-  Cross-platform mobile and desktop data browser for harvested geospatial datasets with local filtering, phone validation, and Excel export.
-  - *Tech:* Vue 3, Ionic, Capacitor, Vite, Android/iOS build targets.
+  Cross-platform data browser and validator for harvested geospatial datasets with local filtering, phone validation, and Excel export.
+  - *Tech:* Vue 3, Ionic, Capacitor, Vite, Android/iOS targets.
 
 - **[linkedin-companies-scraper.py](https://github.com/devsanthoshmk/linkedin-companies-scraper.py)**
   Automated enterprise lead generation script extracting structured corporate data, employee counts, and contact metadata.
@@ -79,7 +83,7 @@ Full-stack and AI systems engineer focused on autonomous agent workflows, Model 
 
 - **[spacefurnio](https://github.com/devsanthoshmk/spacefurnio)**
   Modern interior design showcase and furniture catalog with interactive room rendering and cart flow.
-  - *Tech:* Vue 3, Vite, Tailwind CSS.
+  - *Tech:* Vue 3, Vite, Tailwind CSS, PostgreSQL.
 
 - **[WA-automation](https://github.com/devsanthoshmk/WA-automation)**
   Scripted WhatsApp messaging pipeline with scheduled broadcasts, progress tracking, and batch dispatching.
@@ -94,12 +98,13 @@ Full-stack and AI systems engineer focused on autonomous agent workflows, Model 
 ## Technical Skill Matrix
 
 ```text
-Languages     : Python, TypeScript, JavaScript, Go, C++, SQL, HTML5/CSS3, Bash
-AI & Agents   : Model Context Protocol (MCP), LangChain, Qdrant Vector DB, Groq, Cohere, RAG
-Backend       : FastAPI, Node.js, Express, Cloudflare Workers, Flask, REST APIs, JSON-RPC
-Databases     : PostgreSQL, Neon Serverless DB, Redis, MongoDB, SQLite
-Frontend      : React, Next.js, Vue.js, Ionic Framework, Tailwind CSS, Vite
-DevOps & Tool : Docker, Linux (Arch/Debian), Git, GitHub Actions, Cloudflare, Playwright
+AI Engineering : LangChain, RAG, Agent Development, Context Engineering, Guardrails, Edge AI, FastMCP
+Languages      : Python, TypeScript, JavaScript, Java, Bash Scripting, SQL, HTML5/CSS3
+Backend        : Node.js, Express.js, FastAPI, Cloudflare Workers, Django, Tornado, Spring Boot, WebSockets, RPC
+Databases      : PostgreSQL, Neon Serverless DB, Redis, MongoDB, SQLite | Vector: Qdrant, Pinecone, FAISS | ORM: Prisma, Drizzle, SQLAlchemy
+Frontend       : Vue.js, React.js, React Native, Tailwind CSS, Capacitor.js, Next.js, Vite
+Cloud & DevOps : Docker, Linux (Arch/Debian), Git, GitHub Actions, Cloudflare Workers, AWS (Lambda, EC2, S3)
+Web Automation : Playwright, Puppeteer, Selenium, Web Reverse Engineering
 ```
 
 ---
@@ -122,4 +127,6 @@ DevOps & Tool : Docker, Linux (Arch/Debian), Git, GitHub Actions, Cloudflare, Pl
 ## Connect & Contact
 
 - GitHub: [@devsanthoshmk](https://github.com/devsanthoshmk)
+- LinkedIn: [linkedin.com/in/santhosh-m-k](https://www.linkedin.com/in/santhosh-m-k)
+- LeetCode: [leetcode.com/u/santhoshmk](https://leetcode.com/u/santhoshmk)
 - Email: [devsanthoshmk@gmail.com](mailto:devsanthoshmk@gmail.com)

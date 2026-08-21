@@ -40,15 +40,15 @@ ASCII_ART = [
 
 ROWS = [
     ("USER", "SANTHOSH M K", True, "#f8fafc"),
-    ("ROLE", "Full-Stack & Agentic AI Engineer", True, "#38bdf8"),
-    ("FOCUS", "Autonomous Agents, MCP Servers, Distributed APIs", False, "#cbd5e1"),
-    ("TOOLCHAIN", "Linux (Arch), Docker, Git, VS Code, agy CLI", False, "#cbd5e1"),
-    ("LANGUAGES", "Python, TypeScript, JavaScript, Go, C++, SQL", False, "#cbd5e1"),
-    ("FRONTEND", "React, Next.js, Vue.js, Ionic, Tailwind CSS", False, "#cbd5e1"),
-    ("BACKEND", "FastAPI, Node.js, Express, Cloudflare Workers", False, "#cbd5e1"),
-    ("DATA &amp; AI", "LangChain, Qdrant, Neon Postgres, Redis, Groq", False, "#cbd5e1"),
-    ("SCRAPING", "Playwright, Puppeteer, High-Volume Data Pipelines", False, "#cbd5e1"),
-    ("PORTFOLIO", "78 Repositories • Open Source Systems", True, "#22c55e"),
+    ("ROLE", "Full-Stack & AI Systems Engineer", True, "#38bdf8"),
+    ("FOCUS", "AI Agents, MCP Protocols, RAG & Edge APIs", False, "#cbd5e1"),
+    ("TOOLCHAIN", "Docker, GitHub Actions, Cloudflare, AWS, Linux", False, "#cbd5e1"),
+    ("LANGUAGES", "Python, TypeScript, JavaScript, Java, Bash, SQL", False, "#cbd5e1"),
+    ("FRONTEND", "Vue.js, React.js, React Native, Tailwind CSS, Vite", False, "#cbd5e1"),
+    ("BACKEND", "Node.js, Express, Cloudflare Workers, Django, RPC", False, "#cbd5e1"),
+    ("DATA &amp; AI", "LangChain, RAG, Qdrant, Neon Postgres, Redis", False, "#cbd5e1"),
+    ("SCRAPING", "Playwright, Puppeteer, Selenium, Reverse Eng", False, "#cbd5e1"),
+    ("PORTFOLIO", "78+ Repositories • Open Source Systems", True, "#22c55e"),
 ]
 
 def generate_dark_svg():
