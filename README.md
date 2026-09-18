@@ -1,131 +1,29 @@
-<div align="center">
+Full-stack dev building AI agents, MCP servers, and scrapers that actually ship.
 
-# Santhosh M K
+Checkout my [LinkedIn](https://www.linkedin.com/in/santhosh-m-k), [LeetCode](https://leetcode.com/u/santhoshmk), or [email me I guess](mailto:devsanthoshmk@gmail.com)
 
-[![Total Repositories](https://img.shields.io/badge/Repositories-78+-38bdf8?style=for-the-badge&logo=git&labelColor=0d1527)](https://github.com/devsanthoshmk?tab=repositories)
-[![Primary Stack](https://img.shields.io/badge/Stack-Python%20%7C%20TypeScript%20%7C%20Agents-22c55e?style=for-the-badge&logo=python&labelColor=0d1527)](https://github.com/devsanthoshmk)
+## Current Projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devsanthoshmk/devsanthoshmk/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devsanthoshmk/devsanthoshmk/main/light.svg">
-  <img alt="Santhosh M K Terminal Profile" src="https://raw.githubusercontent.com/devsanthoshmk/devsanthoshmk/main/dark.svg" width="100%">
-</picture>
+### Stuff people actually use
 
-</div>
+- **[gmaps-mcp](https://github.com/devsanthoshmk/gmaps-mcp)** — Google Maps for AI agents, no API key needed
+- **[cloudflaredjs](https://github.com/devsanthoshmk/cloudflaredjs)** — Persistent Cloudflare Quick Tunnels in Node without the pain
+- **[leadgen-basic](https://github.com/devsanthoshmk/leadgen-basic)** — LinkedIn + Maps + Search lead gen, 1000+ requests in under a minute
+- **[places-data-app](https://github.com/devsanthoshmk/places-data-app)** — Browse, filter, and export scraped places data on web and mobile
+- **[WA-automation](https://github.com/devsanthoshmk/WA-automation)** — Scheduled WhatsApp broadcasts without losing your mind
+- **[InstaDe-tox](https://github.com/devsanthoshmk/InstaDe-tox)** — Removes reels and feeds so you stop doomscrolling
 
----
+### Agents & Shenanigans
 
-## Technical Summary
+- **[AgenticragChatbot](https://github.com/devsanthoshmk/AgenticragChatbot)** — Agentic RAG chatbot with LangChain, Qdrant, and Postgres
+- **[skills](https://github.com/devsanthoshmk/skills)** — Reusable skills for AI coding agents
+- **[agy-subagent](https://github.com/devsanthoshmk/agy-subagent)** — Headless subagents for boring terminal tasks
+- **[m14u-workers-v4](https://github.com/devsanthoshmk/m14u-workers-v4)** — Edge streaming with sub-5ms sync on Cloudflare Workers
+- **[no_socket_proxy](https://github.com/devsanthoshmk/no_socket_proxy)** — Streaming HTTP proxy for people who hate WebSockets
 
-Full-stack and AI systems engineer focused on autonomous agent workflows, Model Context Protocol (MCP) integrations, distributed backends, and high-throughput data extraction engines. Creator of production developer tools and serverless architectures with 78+ repositories spanning Python, TypeScript/JavaScript, Java, and Vue/React.
+### Everything Else
 
----
-
-## Flagship Systems & Repositories
-
-### AI Systems, MCP & Autonomous Agents
-
-- **[gmaps-mcp](https://github.com/devsanthoshmk/gmaps-mcp)**
-  Model Context Protocol (MCP) server and CLI providing zero-API-key Google Maps search, place details, and geo-grid queries directly to AI agents.
-  - *Tech:* Python, FastMCP, AsyncIO, JSON-RPC.
-
-- **[leadgen-basic](https://github.com/devsanthoshmk/leadgen-basic)**
-  Multi-platform lead generation engine concurrently querying LinkedIn, Google Maps, and Google Search (1,000+ req/query in <60s) with an AI context evaluation harness.
-  - *Tech:* React Native, Nativewind, GitHub Actions, AI Evaluation Harness.
-
-- **[AgenticragChatbot](https://github.com/devsanthoshmk/AgenticragChatbot)**
-  Multi-layer Agentic RAG pipeline and conversational assistant with contextual chunking, vector indexing, and relational metadata persistence.
-  - *Tech:* Node.js, Express, LangChain, Groq, Qdrant Vector DB, Neon Postgres.
-
-- **[skills](https://github.com/devsanthoshmk/skills)**
-  Curated production skills for autonomous AI coding agents, including headless subagent delegation, automated workflows, and terminal integrations.
-  - *Tech:* Markdown, Shell, Custom Agent Protocols.
-
-- **[agy-subagent](https://github.com/devsanthoshmk/agy-subagent)**
-  Headless CLI subagent delegator and routing engine designed for decoupled terminal tasks and multi-tier LLM execution.
-  - *Tech:* Antigravity CLI, Shell, JSON streams.
-
----
-
-### Infrastructure, Edge & Distributed Services
-
-- **[cloudflaredjs](https://github.com/devsanthoshmk/cloudflaredjs)**
-  Zero-dependency Node.js wrapper for `cloudflared` to provision, manage, monitor, and maintain persistent Cloudflare Quick Tunnels programmatically.
-  - *Tech:* Node.js, Cloudflare Tunnel Daemon, Child Process IPC, Stream Parsing.
-
-- **[m14u-workers-v4](https://github.com/devsanthoshmk/m14u-workers-v4)**
-  Cross-platform streaming architecture achieving sub-5ms synchronization with serverless edge routing and durable state persistence.
-  - *Tech:* TypeScript, Cloudflare Workers, Durable Objects, KV Storage.
-
-- **[no_socket_proxy](https://github.com/devsanthoshmk/no_socket_proxy)**
-  Lightweight HTTP proxy service engineered for low-overhead streaming responses without WebSocket complexity.
-  - *Tech:* Node.js, HTTP Streaming, Reverse Proxy.
-
----
-
-### High-Throughput Scrapers & Data Pipelines
-
-- **[gmapScraper](https://github.com/devsanthoshmk/gmapScraper) / [mapScraper-forked](https://github.com/devsanthoshmk/mapScraper-forked)**
-  Scalable Google Maps business intelligence extraction pipelines featuring proxy rotation, resilient schema parsing, and automatic fallback routing (~700 LOC open source contribution).
-  - *Tech:* Python, Node.js, Playwright, Puppeteer, Pandas.
-
-- **[places-data-app](https://github.com/devsanthoshmk/places-data-app)**
-  Cross-platform data browser and validator for harvested geospatial datasets with local filtering, phone validation, and Excel export.
-  - *Tech:* Vue 3, Ionic, Capacitor, Vite, Android/iOS targets.
-
-- **[linkedin-companies-scraper.py](https://github.com/devsanthoshmk/linkedin-companies-scraper.py)**
-  Automated enterprise lead generation script extracting structured corporate data, employee counts, and contact metadata.
-  - *Tech:* Python, Requests, BeautifulSoup, CSV pipelines.
-
----
-
-### Full-Stack Applications & Productivity Tools
-
-- **[spacefurnio](https://github.com/devsanthoshmk/spacefurnio)**
-  Modern interior design showcase and furniture catalog with interactive room rendering and cart flow.
-  - *Tech:* Vue 3, Vite, Tailwind CSS, PostgreSQL.
-
-- **[WA-automation](https://github.com/devsanthoshmk/WA-automation)**
-  Scripted WhatsApp messaging pipeline with scheduled broadcasts, progress tracking, and batch dispatching.
-  - *Tech:* JavaScript, Node.js, WhatsApp Web API.
-
-- **[InstaDe-tox](https://github.com/devsanthoshmk/InstaDe-tox)**
-  Chrome extension that removes algorithmic feeds and short-form video reels to prevent distraction.
-  - *Tech:* JavaScript, Chrome Extension Manifest V3.
-
----
-
-## Technical Skill Matrix
-
-```text
-AI Engineering : LangChain, RAG, Agent Development, Context Engineering, Guardrails, Edge AI, FastMCP
-Languages      : Python, TypeScript, JavaScript, Java, Bash Scripting, SQL, HTML5/CSS3
-Backend        : Node.js, Express.js, FastAPI, Cloudflare Workers, Django, Tornado, Spring Boot, WebSockets, RPC
-Databases      : PostgreSQL, Neon Serverless DB, Redis, MongoDB, SQLite | Vector: Qdrant, Pinecone, FAISS | ORM: Prisma, Drizzle, SQLAlchemy
-Frontend       : Vue.js, React.js, React Native, Tailwind CSS, Capacitor.js, Next.js, Vite
-Cloud & DevOps : Docker, Linux (Arch/Debian), Git, GitHub Actions, Cloudflare Workers, AWS (Lambda, EC2, S3)
-Web Automation : Playwright, Puppeteer, Selenium, Web Reverse Engineering
-```
-
----
-
-## Activity & Metrics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devsanthoshmk&theme=tokyonight&hide_border=true&background=080c14&ring=38bdf8&fire=06b6d4&currStreakNum=38bdf8" alt="GitHub Streak" width="60%">
-
-<br><br>
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devsanthoshmk&layout=compact&theme=tokyonight&hide_border=true&bg_color=080c14&title_color=38bdf8&text_color=cbd5e1" alt="Top Languages" width="60%">
-
-</div>
-
----
-
-## Connect & Contact
-
-- GitHub: [@devsanthoshmk](https://github.com/devsanthoshmk)
-- LinkedIn: [linkedin.com/in/santhosh-m-k](https://www.linkedin.com/in/santhosh-m-k)
-- LeetCode: [leetcode.com/u/santhoshmk](https://leetcode.com/u/santhoshmk)
-- Email: [devsanthoshmk@gmail.com](mailto:devsanthoshmk@gmail.com)
+- **[gmapScraper](https://github.com/devsanthoshmk/gmapScraper)** — Google Maps business data extraction that just works
+- **[spacefurnio](https://github.com/devsanthoshmk/spacefurnio)** — Furniture catalog that doesn't look like a template
+- **[clg-symposium-2025](https://github.com/devsanthoshmk/clg-symposium-2025)** — Official symposium site for my college dept
+- **[insta-memory-fix-extension](https://github.com/devsanthoshmk/insta-memory-fix-extension)** — Stops Instagram from eating all your RAM
