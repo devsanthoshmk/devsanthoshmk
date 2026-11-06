@@ -2,7 +2,7 @@
 
 Full-stack dev building AI agents, MCP servers, and scrapers that actually ship.
 
-Checkout my [LinkedIn](https://www.linkedin.com/in/santhosh-m-k), [LeetCode](https://leetcode.com/u/santhoshmk), or [email me I guess](mailto:devsanthoshmk@gmail.com)
+Checkout my [LinkedIn](https://www.linkedin.com/in/santhosh-m-k), [LeetCode](https://leetcode.com/u/santhoshmk), or [shoot me an email](mailto:devsanthoshmk@gmail.com)
 
 ## Current Projects
 
