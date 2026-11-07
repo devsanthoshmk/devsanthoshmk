@@ -6,7 +6,7 @@ Checkout my [LinkedIn](https://www.linkedin.com/in/santhosh-m-k), [LeetCode](htt
 
 ## Current Projects
 
-### Stuff people actually use
+### Stuff people can actually use
 
 - **[gmaps-mcp](https://github.com/devsanthoshmk/gmaps-mcp)** — Google Maps for AI agents without API keys or headless browsers
 - **[Wrangler Wrapper](https://github.com/devsanthoshmk/wrangler-wrapper)** — Switch Cloudflare Wrangler accounts instantly without losing your OAuth sessions
