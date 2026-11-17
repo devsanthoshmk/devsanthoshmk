@@ -3,7 +3,7 @@
 Full-stack dev building AI agents, MCP servers, and scrapers that actually ship.
 
 Checkout my [LinkedIn](https://www.linkedin.com/in/santhosh-m-k), [LeetCode](https://leetcode.com/u/santhoshmk), or [shoot me an email](mailto:devsanthoshmk@gmail.com)
-> Are you recruter looking for a passionate and skilled developer? You're in the right place here is my resume -> [Link](https://docs.google.com/document/d/195xIy0vvICBafR2pWU6Ds2CWaaVVBJkCFl9Iw2e7iU8/edit?usp=sharing)
+> Are you recruter looking for a passionate and skilled developer? You're in the right place here is my resume - [Link](https://docs.google.com/document/d/195xIy0vvICBafR2pWU6Ds2CWaaVVBJkCFl9Iw2e7iU8/edit?usp=sharing)
 
 ## Current Projects
 
